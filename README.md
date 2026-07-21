@@ -237,7 +237,7 @@ MIT License - Feel free to use and modify!
 
 ## 👤 Author | 作者
 
-**Cheng Junhao (程君浩)**
+**cheng-jun-hao**
 Xi'an Metro Assistant - 创新开发项目
 
 ---
